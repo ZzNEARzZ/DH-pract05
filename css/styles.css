@@ -1,0 +1,53 @@
+header .logo{
+    display: block;
+    margin: auto;
+    height: 146.37px;
+    width: 100px;
+}
+nav .text1{
+    font-family: 'Times New Roman', sans-serif, Times, serif;
+    font-size: 35px;      
+    line-height: 60px;
+    color: #005677;
+}
+nav{
+    background-color: #C4C4C4;
+    text-align: center;    
+}
+
+main .title h2{
+    height: 30px;
+    color: #005677;
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', sans-serif, Times, serif;
+    line-height: 30px;
+    font-size: 20px; 
+}
+main section .sangria {
+    text-indent: 80px;
+    line-height: 0px;
+    
+}
+
+footer{
+    background-color: #005677;
+    height: 37px;
+}
+/*footer .contprin{
+    position: relative;
+}*/
+footer .contsec{
+     
+    /*position: absolute;*/
+    
+    
+    margin: 15px 0 0 -25px;
+    text-align: center;    
+}
+footer .contprin .contsec p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    font-size: 20px;
+      
+}
+
